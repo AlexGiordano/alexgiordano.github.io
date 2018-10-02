@@ -5,7 +5,7 @@ This is a frist crack at a basic website using HTML/CSS and a small amount of ja
 
 I found the following aspects particularly challenging:
 
-  - Modals containing youtube videos linked from drop down menus (particularly getting the modal to to appear outside of the drop down in all browsers);
+  - Modals containing youtube videos triggered by links in drop down menus (particularly getting the modal to to appear outside of the drop down in all browsers);
 
   - Stopping the music, when the modal is clsoed by clicking on the 'x' button or outside of the modal area;
 
