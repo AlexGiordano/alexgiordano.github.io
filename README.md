@@ -13,4 +13,4 @@ I found the following aspects particularly challenging:
 
   - Using media queries to make the site mobile friendly/responsive and 'mobile first';
 
-  - Optimising the web site's speed (work in progress).
+  - Optimising the website's speed (work in progress).
