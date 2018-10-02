@@ -11,6 +11,6 @@ I found the following aspects particularly challenging:
 
   - Stopping the music/youtube video when the modal is closed by clicking the 'x' button or outside the modal area;
 
-  - Using media queries to make the site mobile friendly / 'mobile first';
+  - Using media queries to make the site mobile friendly/responsive and 'mobile first';
 
   - Optimising the web site's speed (work in progress).
